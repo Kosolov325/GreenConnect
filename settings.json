@@ -1,0 +1,6 @@
+{
+  "SECRET_KEY":"django-insecure-xm6h@3lom*w1gqf*$jegh3u1bpja2e(i%!@z3mgnccd@0r@i+e",
+  "DEBUG":true,
+  "ALLOWED_HOSTS":["*"]
+
+}
